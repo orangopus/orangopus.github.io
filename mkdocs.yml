@@ -40,14 +40,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: root
-      accent: root
+      primary: orangopus-light
+      accent: orangopus-light
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: root
-      accent: root
+      primary: orangopus-dark
+      accent: orangopus-dark
 
 extra_css:
   - stylesheets/extra.css

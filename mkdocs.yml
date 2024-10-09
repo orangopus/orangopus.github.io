@@ -1,4 +1,4 @@
-site_name: Orangopus Documentation
+site_name: Documentation
 site_url: https://orangopus.github.io/
 site_description: Documentation for the Orangopus projects
 theme:
@@ -17,6 +17,8 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   name: material
   custom_dir: overrides
   features:

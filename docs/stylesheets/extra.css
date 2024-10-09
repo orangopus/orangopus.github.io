@@ -86,7 +86,7 @@
 
   --md-default-bg-color:        #1b1a1a;
   --md-accent-fg-color:         #ff913d;
-  --md-typeset-a-color:         #ff913d !important;
+  --md-typeset-a-color:         #fff !important;
 
   --md-default-fg-color:               hsla(0, 0%, 100%, 0.87);
   --md-default-fg-color--light:        hsla(0, 0%, 100%, 0.54);

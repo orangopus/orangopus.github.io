@@ -1,5 +1,5 @@
 site_name: Orangopus Documentation
-site_url: https://docs.orangop.us/
+site_url: https://orangopus.github.io/
 site_description: Documentation for the Orangopus projects
 theme:
   icon:

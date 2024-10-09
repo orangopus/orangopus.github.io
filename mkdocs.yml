@@ -36,18 +36,14 @@ theme:
     - content.tooltips
   language: en
   palette:
-    - scheme: default
+    - scheme: orangopus-light
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: orangopus-light
-      accent: orangopus-light
-    - scheme: slate 
+    - scheme: orangopus-dark 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: orangopus-dark
-      accent: orangopus-dark
+        name: Switch to light mode
 
 extra_css:
   - stylesheets/extra.css

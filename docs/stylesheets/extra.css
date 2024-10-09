@@ -80,11 +80,11 @@
 [data-md-color-scheme="orangopus-dark"] {
 
   --md-hue: 0;
-  --md-primary-fg-color:        #000;
-  --md-primary-fg-color--light: #000;
-  --md-primary-fg-color--dark:  #000;
+  --md-primary-fg-color:        #131313;
+  --md-primary-fg-color--light: #131313;
+  --md-primary-fg-color--dark:  #131313;
 
-  --md-default-bg-color:        #000000;
+  --md-default-bg-color:        #1b1a1a;
   --md-accent-fg-color:         #ff913d;
   --md-typeset-a-color:         #ff913d !important;
 
@@ -92,13 +92,13 @@
   --md-default-fg-color--light:        hsla(0, 0%, 100%, 0.54);
   --md-default-fg-color--lighter:      hsla(0, 0%, 100%, 0.32);
   --md-default-fg-color--lightest:     hsla(0, 0%, 0%, 0.07);
-  --md-default-bg-color:               #131313;
+  --md-default-bg-color:               #282828;
   --md-default-bg-color--light:        hsla(0, 0%, 100%, 0.7);
   --md-default-bg-color--lighter:      hsla(0, 0%, 100%, 0.3);
   --md-default-bg-color--lightest:     hsla(0, 0%, 100%, 0.12);
 
   --md-code-fg-color:                  rgb(255, 255, 255);
-  --md-code-bg-color:                  rgb(0, 0, 0);
+  --md-code-bg-color:                  rgb(31, 30, 30);
 
   .md-typeset pre > code {
     border-radius: 10px;
